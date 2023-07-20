@@ -1,6 +1,8 @@
 <h1>Test Technique Selsebil Trabelsi - Backend</h1>
 
-<p>Ce dépôt contient la partie backend du projet Test Technique Selsebil Trabelsi, l'autre dépôt contient la partie frontend du projet Test Technique Selsebil Trabelsi. Il s'agit d'une application développée avec le framework Laravel, permettant de gérer les produits d'une base de données.</p>
+<p>Ce dépôt contient la partie backend du projet Test Technique Selsebil Trabelsi, l'autre dépôt contient la partie frontend du projet Test Technique Selsebil Trabelsi. Il s'agit d'une application développée avec le framework Laravel, permettant de gérer les produits d'une base de données.</p><br>
+
+<p>N'hésitez pas à ouvrir une <a href="https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_frontend">Parite FrontEnd</a> pour consulter le projet frontend en angular. Bonne utilisation !</p><br>
 
 <h2>Installation</h2>
 
