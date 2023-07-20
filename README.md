@@ -55,6 +55,15 @@ Le backend expose les API suivantes pour gérer les produits :
     GET /api/products/search : Rechercher un produit 
 <h2>captures d'écran </h2>
 
+![Screenshot from 2023-07-20 09-09-29](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/8886a1a7-515f-4058-97ec-e8c769ff8b48)
+![Screenshot from 2023-07-20 09-10-54](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/0a530a4d-14d6-4aa6-9ec6-4bf5c50a9d8e)
+![Screenshot from 2023-07-20 09-15-02](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/153bda7b-fc96-4ec5-b3ea-968f52f6059f)
+![Screenshot from 2023-07-20 09-16-20](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/c36bde29-bdc2-4159-bb14-1854118d0c6b)
+![Screenshot from 2023-07-20 09-17-12](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/79040c63-3d2e-49f5-b2b7-438248596c40)
+![Screenshot from 2023-07-20 09-18-43](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/d6b3a07c-5539-432d-b36b-55abd418e5d2)
+![Screenshot from 2023-07-20 09-19-34](https://github.com/selsebil82/Test_Technique_Selsebil_Trabelsi_backend/assets/134981597/598444c8-3ad8-41a1-9aea-5f67e394b0a8)
+
+
 <h2>Auteur</h2>
 
 Ce projet a été réalisé par Selsebil Trabelsi.
