@@ -53,6 +53,7 @@ Le backend expose les API suivantes pour gérer les produits :
     PUT /api/products/{id} : Mettre à jour les informations d'un produit existant en fonction de son ID.
     DELETE /api/products/{id} : Supprimer un produit de la base de données en fonction de son ID.
     GET /api/products/search : Rechercher un produit 
+<h2>captures d'écran </h2>
 
 <h2>Auteur</h2>
 
